@@ -1,4 +1,5 @@
 # Got-Anot! Fab-lab Resource Management App
+https://istd.sutd.edu.sg/term4-design-exhibition/infosys/Got-Anot/
 ## Description
 Sourcing for resources for projects is an issue all SUTD students will have to face. SUTD provides a host of resources for us to use. However, the process of sourcing for these items may pose a problem for many, as we have to physically go to the various departments to check for availability of these resources, all while complying to their rules like opening timings, staff approval, or dress codes. Furthermore, we often find that they may be out of stock. By digitising the process, we make it more convenient for both staff and students to take stock of inventory and streamline the process for ease of use.
 
